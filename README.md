@@ -1,2 +1,2 @@
 # OP_APP
-APP omegapoint
+Run the main function in the Main file.
